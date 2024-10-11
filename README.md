@@ -1,3 +1,4 @@
-#Diego Retamales
-#Maximiliano Casas
-#Carlos Gaete
+Integrantes:
+Diego Retamales
+Maximiliano Casas
+Carlos Gaete
